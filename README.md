@@ -1,25 +1,22 @@
 <!-- Profile README for OmriFialkov -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmriFialkov.OmriFialkov&color=cyan" width="80" />
-</div>
-
-<br>
 
 <h3 align="center">
-  <strong>Junior DevOps Engineer</strong><br>
-  Loves automation and cloud infrastructure
+  <strong>Junior DevOps Engineer</strong>
 </h3>
+<p align="center">
+  Passionate about automation and cloud infrastructure
+</p>
 
 ---
 
-### 🔭 What I'm working on & love doing:
-- I'm currently working on DevOps projects to enhance my skills in CI/CD, containerization, and cloud deployment.  
-- Always learning new technologies — currently exploring **Google Cloud (GCE)**, **Kubernetes**, and **ArgoCD**.  
-- In my free time, I build personal projects, contribute to open-source, and tinker with automation scripts.
+### Current Focus:
+
+- Currently working on DevOps projects to gain more knowledge of cloud technologies and improve in cloud deployment.
+- Learning and expanding my knowledge on **Kubernetes**, **Helm** and **ArgoCD**.  
 
 ---
 
-### 🛠 Tools I'm working with:
+### Mainly Used Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -34,11 +31,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![AKS](https://img.shields.io/badge/Azure%20Kubernetes%20Service-0078D4?style=flat&logo=azuredevops&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
-### 📫 Connect with me
+### 📫 Contact
 
 <a href="mailto:omrikofialkov@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
+
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmriFialkov.OmriFialkov&color=cyan" width="80" />
+</div>
