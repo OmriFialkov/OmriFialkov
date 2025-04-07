@@ -1,14 +1,14 @@
 <!-- Profile README for OmriFialkov -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmriFialkov.OmriFialkov&color=cyan" width="130" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmriFialkov.OmriFialkov&color=cyan" width="80" />
 </div>
 
 <br>
 
-<p align="center">
+<h3 align="center">
   <strong>Junior DevOps Engineer</strong><br>
   Loves automation and cloud infrastructure
-</p>
+</h3>
 
 ---
 
